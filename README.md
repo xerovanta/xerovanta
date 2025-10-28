@@ -59,3 +59,6 @@
 
 ### 📈 Contribution Graph
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=xerovanta&theme=tokyo-night)
+
+![snake gif](https://github.com/xerovanta/xerovanta/blob/output/github-contribution-grid-snake.gif)
+
